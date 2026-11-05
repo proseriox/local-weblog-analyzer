@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Local Weblog Analyzer (LWA)</title>
+<script>(function(){var m=(document.cookie.match(/(?:^|; )theme=(system|light|dark)/)||[])[1]||'system';var d=m==='dark'||(m==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light';document.documentElement.dataset.mode=m;var a=(document.cookie.match(/(?:^|; )accent=(green|blue|cyan|orange|magenta|mono)/)||[])[1]||'orange';document.documentElement.dataset.accent=a;})();</script>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <h1>Local<span>WeblogAnalyzer</span> <small>LWA</small></h1>
+  <button type="button" id="pick" class="primary" title="Mehrere Logdateien wählen: jede Datei bekommt einen eigenen Tab" data-tt data-t>Dateien → getrennte Tabs …</button>
+  <button type="button" id="append" class="secondary" title="Mehrere Logdateien in EINEN Tab laden (neuer oder bestehender Tab, Duplikate entfallen)" data-tt data-t>Dateien → ein Tab …</button>
+  <input type="file" id="file" multiple hidden>
+  <div id="loading" class="loading hidden" data-t>lädt …</div>
+  <div class="spacer"></div>
+  <div class="accents" id="accents" role="group" aria-label="Akzentfarbe" data-ta>
+    <button type="button" data-accent="green" style="--sw:#00c97b" title="Matrix-Grün" aria-label="Grün" data-tt data-ta></button>
+    <button type="button" data-accent="blue" style="--sw:#3b8eea" title="Blau" aria-label="Blau" data-tt data-ta></button>
+    <button type="button" data-accent="orange" style="--sw:#ff8a1f" title="Orange" aria-label="Orange" data-tt data-ta></button>
+    <button type="button" data-accent="cyan" style="--sw:#22d3ee" title="Cyan" aria-label="Cyan" data-tt data-ta></button>
+    <button type="button" data-accent="magenta" style="--sw:#e879f9" title="Magenta" aria-label="Magenta" data-tt data-ta></button>
+    <button type="button" data-accent="mono" style="--sw:#c5ced6" title="Monochrom" aria-label="Monochrom" data-tt data-ta></button>
+  </div>
+  <div class="theme" id="theme" role="group" aria-label="Farbschema" data-ta>
+    <button type="button" data-mode="system">System</button>
+    <button type="button" data-mode="light" data-t>Hell</button>
+    <button type="button" data-mode="dark">Dark</button>
+  </div>
+  <select id="lang" class="langsel" aria-label="Sprache" title="Sprache" data-ta data-tt>
+    <option value="en">English</option>
+    <option value="de">Deutsch</option>
+  </select>
+</header>
+<nav class="tabs" id="tabs" aria-label="Datensätze" data-ta></nav>
+
+<main>
+  <section class="jobs" id="jobs"></section>
+
+  <section class="card wide" id="empty" style="display:none">
+    <h2 data-t>Noch keine Daten</h2>
+    <p data-th>Oben „Dateien → getrennte Tabs“ (jede Datei ein Tab) oder „Dateien → ein Tab“ (alle in einem Tab) klicken oder Dateien auf die Seite ziehen. Access- und Error-Logs werden automatisch erkannt. Alternativ: <code>ddev logimport logs/access.log</code></p>
+    <div class="info-alert" role="note" data-th><b>ℹ 100 % lokal.</b> Alle Logdateien werden ausschließlich auf diesem Rechner verarbeitet und in lokalen Datenbanken unter <code>data/</code> abgelegt. Es werden keine Daten an externe Server oder Dienste gesendet – auch die Länder-Zuordnung der IPs erfolgt offline.</div>
+  </section>
+
+  <div id="app" style="display:none">
+    <div class="formatinfo" id="formatInfo"></div>
+    <section class="filters" id="filters"></section>
+    <section class="kpis" id="kpis"></section>
+
+    <section class="card wide">
+      <h2><span id="tlTitle">Zeitverlauf</span> <small id="bucketInfo"></small> <button type="button" id="tlBack" class="back" hidden></button></h2>
+      <div class="chartbox"><canvas id="timeline"></canvas></div>
+    </section>
+
+    <section class="grid" id="lists"></section>
+
+    <section class="card wide">
+      <h2><span id="rowsTitle">Einträge</span> <small data-t>(neueste zuerst, Zeilen anklicken für Details)</small></h2>
+      <div class="tablewrap">
+        <table id="rows">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="more"><button id="more" type="button" data-t>Mehr laden</button></div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <span><b>LWA</b> v1.0 &middot; <span data-t>Quelloffen</span></span>
+  <span data-t>100 % lokal – keine Daten verlassen diesen Rechner</span>
+</footer>
+
+<script src="assets/chart.umd.min.js"></script>
+<script src="assets/i18n.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

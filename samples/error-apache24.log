@@ -1,0 +1,300 @@
+[Thu Oct 01 06:12:23.000 2026] [core:error] [pid 3846:tid 842365364452730] [client 203.0.113.200:40681] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 06:21:15.000 2026] [proxy_fcgi:error] [pid 7873:tid 763100833137004] [client 192.0.2.10:46027] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 06:29:54.000 2026] [core:error] [pid 3602:tid 540329756560051] [client 203.0.113.200:44764] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 06:33:50.000 2026] [php:warn] [pid 1621:tid 382889706597205] [client 203.0.113.42:49562] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 06:34:25.000 2026] [mpm_prefork:notice] [pid 3216:tid 579305412647077] [client 198.51.100.23:51423] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 06:44:00.000 2026] [core:crit] [pid 7113:tid 371441791032728] [client 203.0.113.42:51662] AH00020: Unable to open logs
+[Thu Oct 01 06:45:21.000 2026] [mpm_prefork:notice] [pid 5239:tid 665896164004378] [client 192.0.2.10:47491] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 06:47:58.000 2026] [core:error] [pid 7961:tid 472125247210992] [client 77.88.8.8:33097] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 06:50:47.000 2026] [php:error] [pid 4460:tid 243866026599750] [client 208.67.222.222:38916] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 06:59:44.000 2026] [core:error] [pid 6623:tid 734499953901874] [client 208.67.222.222:46897] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 07:01:06.000 2026] [proxy_fcgi:error] [pid 1115:tid 202034891298090] [client 10.0.0.15:39629] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 07:08:11.000 2026] [authz_core:error] [pid 7815:tid 784992804129619] [client 10.0.0.15:45297] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 07:21:48.000 2026] [core:error] [pid 1334:tid 179195011816447] [client 198.51.100.99:52004] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 07:23:14.000 2026] [core:error] [pid 4692:tid 684399920472554] [client 198.51.100.23:40493] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 07:28:07.000 2026] [core:error] [pid 4612:tid 953744655580262] [client 203.0.113.42:37595] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 07:39:22.000 2026] [proxy_fcgi:error] [pid 6967:tid 418692999264964] [client 77.88.8.8:57674] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 07:46:43.000 2026] [php:warn] [pid 7719:tid 816329994712562] [client 8.8.8.8:48168] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 07:57:31.000 2026] [proxy_fcgi:error] [pid 1857:tid 220822629815316] [client 198.51.100.99:47404] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 08:03:26.000 2026] [core:error] [pid 5078:tid 689604811158975] [client 77.88.8.8:34700] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 08:05:47.000 2026] [php:warn] [pid 8856:tid 494235105104077] [client 114.114.114.114:34123] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 08:17:33.000 2026] [proxy_fcgi:error] [pid 6363:tid 899082071116737] [client 9.9.9.9:41746] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 08:28:48.000 2026] [authz_core:error] [pid 1848:tid 756317830818873] [client 203.0.113.5:31371] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 08:32:39.000 2026] [mpm_prefork:notice] [pid 5924:tid 116216714131148] [client 198.51.100.99:39627] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 08:35:59.000 2026] [proxy_fcgi:error] [pid 1516:tid 304285075817977] [client 208.67.222.222:48504] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 08:44:08.000 2026] [core:error] [pid 6969:tid 357009482524834] [client 10.0.0.15:55283] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 08:47:00.000 2026] [php:warn] [pid 5569:tid 899063814460846] [client 192.0.2.77:52261] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 08:54:38.000 2026] [core:crit] [pid 4188:tid 584368598627042] [client 8.8.8.8:50734] AH00020: Unable to open logs
+[Thu Oct 01 09:01:44.000 2026] [php:error] [pid 7893:tid 689508862574352] [client 198.51.100.99:40491] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 09:16:31.000 2026] [authz_core:error] [pid 8325:tid 979438371166091] [client 203.0.113.200:40149] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 09:17:18.000 2026] [php:warn] [pid 5621:tid 629608009662880] [client 198.51.100.23:37139] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 09:26:54.000 2026] [core:crit] [pid 3349:tid 853364279907009] [client 203.0.113.42:51380] AH00020: Unable to open logs
+[Thu Oct 01 09:30:43.000 2026] [core:error] [pid 5325:tid 674808787277803] [client 77.88.8.8:43351] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 09:35:17.000 2026] [php:error] [pid 6657:tid 740047864356518] [client 203.0.113.5:36701] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 09:46:35.000 2026] [core:crit] [pid 6780:tid 303066090362943] [client 192.0.2.10:54645] AH00020: Unable to open logs
+[Thu Oct 01 09:53:36.000 2026] [php:warn] [pid 5176:tid 631334718117088] [client 1.1.1.1:41411] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 09:59:22.000 2026] [authz_core:error] [pid 5513:tid 231977153959280] [client 77.88.8.8:37315] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 10:13:56.000 2026] [authz_core:error] [pid 1636:tid 629066152010207] [client 198.51.100.23:43597] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 10:15:23.000 2026] [mpm_prefork:notice] [pid 4585:tid 605615701442423] [client 192.0.2.10:57597] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 10:23:36.000 2026] [core:crit] [pid 1585:tid 253792440521259] [client 203.0.113.42:55632] AH00020: Unable to open logs
+[Thu Oct 01 10:37:58.000 2026] [php:error] [pid 7252:tid 166512841376090] [client 9.9.9.9:47388] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 10:46:02.000 2026] [mpm_prefork:notice] [pid 7584:tid 403784917411906] [client 8.8.8.8:41715] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 10:55:07.000 2026] [php:error] [pid 2951:tid 335553241955565] [client 192.0.2.10:30424] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 11:02:04.000 2026] [core:crit] [pid 5004:tid 642881846997509] [client 1.1.1.1:49484] AH00020: Unable to open logs
+[Thu Oct 01 11:13:32.000 2026] [php:error] [pid 3181:tid 772273018561421] [client 192.0.2.77:51705] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 11:17:01.000 2026] [core:error] [pid 3651:tid 945156541748859] [client 192.0.2.77:32101] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 11:20:44.000 2026] [core:error] [pid 3308:tid 636632172837595] [client 114.114.114.114:52872] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 11:27:26.000 2026] [authz_core:error] [pid 6688:tid 448101709589058] [client 208.67.222.222:37499] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 11:35:39.000 2026] [mpm_prefork:notice] [pid 7271:tid 500192930946853] [client 192.0.2.77:53565] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 11:41:16.000 2026] [proxy_fcgi:error] [pid 6553:tid 683453369656388] [client 198.51.100.23:34791] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 11:47:16.000 2026] [php:error] [pid 6900:tid 837121267920836] [client 203.0.113.200:49776] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 11:57:33.000 2026] [core:error] [pid 6793:tid 511292599302487] [client 1.1.1.1:54965] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 11:59:48.000 2026] [authz_core:error] [pid 3577:tid 587267200025457] [client 192.0.2.77:59266] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 12:04:33.000 2026] [php:warn] [pid 5451:tid 487671756537519] [client 1.1.1.1:40478] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 12:12:53.000 2026] [core:error] [pid 3349:tid 573398751551100] [client 192.0.2.77:31214] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 12:24:27.000 2026] [mpm_prefork:notice] [pid 1493:tid 565796337272429] [client 10.0.0.15:58365] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 12:39:23.000 2026] [core:error] [pid 8950:tid 713160734684754] [client 77.88.8.8:46515] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 12:52:25.000 2026] [php:warn] [pid 1554:tid 756278989238998] [client 77.88.8.8:38492] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 13:00:19.000 2026] [mpm_prefork:notice] [pid 6755:tid 299819318463878] [client 10.0.0.15:45888] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 13:06:16.000 2026] [core:error] [pid 1422:tid 436865561913764] [client 203.0.113.42:54430] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 13:12:38.000 2026] [core:error] [pid 2660:tid 371393349084007] [client 203.0.113.200:36768] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 13:26:24.000 2026] [php:error] [pid 3000:tid 802185494519190] [client 208.67.222.222:34535] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 13:31:39.000 2026] [mpm_prefork:notice] [pid 4703:tid 481681088888996] [client 1.1.1.1:40380] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 13:37:54.000 2026] [core:crit] [pid 7989:tid 818290127402018] [client 9.9.9.9:43186] AH00020: Unable to open logs
+[Thu Oct 01 13:41:40.000 2026] [core:error] [pid 7749:tid 328026856787525] [client 10.0.0.15:35445] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 13:46:45.000 2026] [php:error] [pid 4800:tid 525064704199119] [client 1.1.1.1:51793] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 13:56:12.000 2026] [core:error] [pid 7331:tid 905307058221777] [client 203.0.113.42:46752] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 14:07:29.000 2026] [core:error] [pid 5751:tid 620949191315483] [client 203.0.113.42:38222] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 14:16:11.000 2026] [core:error] [pid 6925:tid 302511167313791] [client 77.88.8.8:50728] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 14:24:41.000 2026] [core:error] [pid 2713:tid 726574244010222] [client 208.67.222.222:51346] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 14:29:56.000 2026] [core:crit] [pid 5589:tid 599787122512159] [client 10.0.0.15:58516] AH00020: Unable to open logs
+[Thu Oct 01 14:42:17.000 2026] [php:error] [pid 4385:tid 208067933904957] [client 198.51.100.99:58436] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 14:46:00.000 2026] [authz_core:error] [pid 7525:tid 274532914020317] [client 9.9.9.9:53720] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 14:56:15.000 2026] [proxy_fcgi:error] [pid 1739:tid 994172556610325] [client 203.0.113.42:35757] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 15:08:43.000 2026] [php:warn] [pid 2142:tid 948554585977998] [client 203.0.113.42:30031] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 15:22:15.000 2026] [core:error] [pid 2519:tid 370949508739701] [client 203.0.113.5:48997] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 15:27:01.000 2026] [authz_core:error] [pid 8466:tid 505919514360078] [client 114.114.114.114:41197] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 15:33:47.000 2026] [proxy_fcgi:error] [pid 1527:tid 707037119746763] [client 198.51.100.99:35380] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 15:39:42.000 2026] [php:warn] [pid 1700:tid 962237281692705] [client 8.8.8.8:31676] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 15:44:09.000 2026] [mpm_prefork:notice] [pid 4295:tid 131513139949503] [client 77.88.8.8:59641] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 15:47:21.000 2026] [php:error] [pid 4531:tid 314801943844609] [client 208.67.222.222:51880] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 15:53:01.000 2026] [core:error] [pid 3526:tid 603026500360655] [client 198.51.100.99:56651] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 16:06:24.000 2026] [core:error] [pid 3951:tid 212886528235167] [client 192.0.2.10:57142] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 16:20:26.000 2026] [core:error] [pid 6359:tid 204007526250369] [client 77.88.8.8:34841] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 16:34:14.000 2026] [mpm_prefork:notice] [pid 1488:tid 570430020680110] [client 9.9.9.9:57867] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 16:43:56.000 2026] [core:error] [pid 8431:tid 453229003520149] [client 192.0.2.10:39573] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 16:55:06.000 2026] [php:warn] [pid 3441:tid 535275342899513] [client 8.8.8.8:52453] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 17:07:12.000 2026] [php:error] [pid 2727:tid 749214458683679] [client 9.9.9.9:57886] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 17:13:52.000 2026] [core:crit] [pid 2450:tid 773272719626636] [client 10.0.0.15:51334] AH00020: Unable to open logs
+[Thu Oct 01 17:25:17.000 2026] [proxy_fcgi:error] [pid 4236:tid 848028147791064] [client 77.88.8.8:42875] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 17:29:21.000 2026] [authz_core:error] [pid 4249:tid 374814351552937] [client 8.8.8.8:57916] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 17:39:18.000 2026] [proxy_fcgi:error] [pid 4173:tid 216110325754864] [client 192.0.2.77:35167] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 17:52:30.000 2026] [core:error] [pid 8925:tid 271420271551730] [client 198.51.100.23:55214] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 17:53:14.000 2026] [php:warn] [pid 8738:tid 889252671387671] [client 192.0.2.10:40210] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 18:04:07.000 2026] [core:error] [pid 5223:tid 981453062883130] [client 203.0.113.5:46371] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 18:09:25.000 2026] [authz_core:error] [pid 6174:tid 587633794775187] [client 10.0.0.15:37849] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 18:14:15.000 2026] [php:warn] [pid 8032:tid 865401814936101] [client 8.8.8.8:37495] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 18:16:22.000 2026] [core:error] [pid 6843:tid 876504105783663] [client 1.1.1.1:42720] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 18:23:53.000 2026] [php:warn] [pid 7296:tid 585861197521792] [client 9.9.9.9:54632] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 18:26:50.000 2026] [proxy_fcgi:error] [pid 3972:tid 458212457676984] [client 114.114.114.114:32371] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 18:32:17.000 2026] [core:error] [pid 5369:tid 472999164964210] [client 192.0.2.77:50162] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 18:39:14.000 2026] [php:error] [pid 2333:tid 747324135256750] [client 208.67.222.222:32488] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 18:52:46.000 2026] [authz_core:error] [pid 6192:tid 675839158148551] [client 114.114.114.114:47270] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 19:00:33.000 2026] [authz_core:error] [pid 1298:tid 923162190517600] [client 10.0.0.15:43584] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 19:13:48.000 2026] [core:error] [pid 7060:tid 989889992884105] [client 8.8.8.8:35985] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 19:20:56.000 2026] [core:error] [pid 3426:tid 765562815989907] [client 8.8.8.8:50877] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 19:23:12.000 2026] [core:crit] [pid 3145:tid 843233836266091] [client 208.67.222.222:36529] AH00020: Unable to open logs
+[Thu Oct 01 19:32:25.000 2026] [authz_core:error] [pid 8446:tid 909587689439592] [client 192.0.2.10:59203] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 19:46:55.000 2026] [php:error] [pid 8385:tid 412387197501807] [client 1.1.1.1:30783] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 19:54:31.000 2026] [core:error] [pid 6132:tid 714392888159239] [client 198.51.100.23:39433] AH00124: Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 20:00:28.000 2026] [core:crit] [pid 8156:tid 348656830539334] [client 203.0.113.200:57122] AH00020: Unable to open logs
+[Thu Oct 01 20:03:29.000 2026] [authz_core:error] [pid 4527:tid 163025849671480] [client 203.0.113.200:35822] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 20:15:38.000 2026] [proxy_fcgi:error] [pid 2252:tid 338082479350259] [client 10.0.0.15:47197] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 20:25:53.000 2026] [php:warn] [pid 3838:tid 936020821924652] [client 114.114.114.114:57759] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 20:40:38.000 2026] [core:error] [pid 4775:tid 823096689633914] [client 8.8.8.8:52512] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 20:49:03.000 2026] [php:error] [pid 6050:tid 522055766662163] [client 8.8.8.8:35535] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 20:53:42.000 2026] [core:error] [pid 3834:tid 134264171175591] [client 203.0.113.200:43947] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 21:01:36.000 2026] [core:crit] [pid 1772:tid 708984497729108] [client 208.67.222.222:37667] AH00020: Unable to open logs
+[Thu Oct 01 21:05:53.000 2026] [php:warn] [pid 7358:tid 662516685963013] [client 10.0.0.15:32640] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 21:10:43.000 2026] [core:crit] [pid 5709:tid 456674529834942] [client 208.67.222.222:38371] AH00020: Unable to open logs
+[Thu Oct 01 21:23:46.000 2026] [authz_core:error] [pid 2398:tid 882502464212124] [client 9.9.9.9:39591] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 21:37:07.000 2026] [php:error] [pid 2282:tid 302554020650720] [client 198.51.100.23:52002] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 21:46:59.000 2026] [authz_core:error] [pid 3920:tid 835860123262347] [client 9.9.9.9:31558] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 21:56:10.000 2026] [mpm_prefork:notice] [pid 2136:tid 716479816503018] [client 8.8.8.8:33938] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 22:10:34.000 2026] [php:error] [pid 4416:tid 584264465827580] [client 9.9.9.9:40949] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 22:11:50.000 2026] [mpm_prefork:notice] [pid 7219:tid 637309243674342] [client 203.0.113.42:37470] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 22:24:29.000 2026] [php:error] [pid 3281:tid 171333394446379] [client 77.88.8.8:59078] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 22:35:14.000 2026] [proxy_fcgi:error] [pid 2954:tid 378168084580978] [client 203.0.113.200:52544] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 22:48:32.000 2026] [php:error] [pid 3993:tid 935268256684457] [client 10.0.0.15:35517] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 22:57:20.000 2026] [proxy_fcgi:error] [pid 5918:tid 987577119216630] [client 77.88.8.8:48387] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 23:01:45.000 2026] [proxy_fcgi:error] [pid 3422:tid 954200478733240] [client 203.0.113.5:57518] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 23:06:12.000 2026] [core:crit] [pid 6262:tid 499446531285990] [client 114.114.114.114:36897] AH00020: Unable to open logs
+[Thu Oct 01 23:16:52.000 2026] [proxy_fcgi:error] [pid 2264:tid 923417570677453] [client 198.51.100.23:54822] AH01071: Got error 'Primary script unknown'
+[Thu Oct 01 23:23:26.000 2026] [core:error] [pid 2565:tid 688548071465135] [client 192.0.2.10:50990] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 23:28:16.000 2026] [authz_core:error] [pid 3355:tid 563270448135107] [client 203.0.113.5:38054] AH01630: client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 23:42:55.000 2026] [php:error] [pid 5839:tid 152702035509399] [client 198.51.100.23:40463] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 23:57:16.000 2026] [core:error] [pid 3725:tid 164432990270868] [client 10.0.0.15:57193] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 00:02:24.000 2026] [core:crit] [pid 6413:tid 476703446037908] [client 198.51.100.99:30908] AH00020: Unable to open logs
+[Fri Oct 02 00:17:10.000 2026] [mpm_prefork:notice] [pid 1965:tid 241027643863649] [client 77.88.8.8:45290] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 00:25:59.000 2026] [php:error] [pid 1858:tid 791627428532433] [client 8.8.8.8:45836] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 00:30:48.000 2026] [proxy_fcgi:error] [pid 3106:tid 744453273699455] [client 203.0.113.42:37585] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 00:40:59.000 2026] [authz_core:error] [pid 6667:tid 631047244392025] [client 1.1.1.1:45873] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 00:45:46.000 2026] [core:error] [pid 1242:tid 899414533621268] [client 114.114.114.114:41683] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 00:52:59.000 2026] [proxy_fcgi:error] [pid 8498:tid 696682403537170] [client 192.0.2.10:40798] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 01:04:59.000 2026] [core:crit] [pid 7179:tid 639152433448691] [client 114.114.114.114:55583] AH00020: Unable to open logs
+[Fri Oct 02 01:10:13.000 2026] [core:error] [pid 4316:tid 598190457629426] [client 9.9.9.9:37180] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 01:17:26.000 2026] [core:error] [pid 6976:tid 964113309543844] [client 114.114.114.114:57892] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 01:31:30.000 2026] [core:crit] [pid 3157:tid 266610816034085] [client 8.8.8.8:48295] AH00020: Unable to open logs
+[Fri Oct 02 01:33:48.000 2026] [core:error] [pid 2580:tid 681819618889206] [client 198.51.100.99:36904] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 01:42:51.000 2026] [php:error] [pid 3912:tid 990042347977230] [client 198.51.100.23:52229] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 01:53:20.000 2026] [proxy_fcgi:error] [pid 1038:tid 343130823536671] [client 198.51.100.99:38095] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 02:07:02.000 2026] [mpm_prefork:notice] [pid 1958:tid 120505901108547] [client 9.9.9.9:42973] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 02:17:54.000 2026] [mpm_prefork:notice] [pid 4957:tid 596699972385942] [client 208.67.222.222:34338] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 02:30:10.000 2026] [core:error] [pid 4430:tid 426140749546671] [client 198.51.100.23:31681] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 02:34:22.000 2026] [authz_core:error] [pid 4500:tid 550787725582232] [client 192.0.2.77:47145] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 02:36:03.000 2026] [core:crit] [pid 3581:tid 394562384028917] [client 203.0.113.200:51218] AH00020: Unable to open logs
+[Fri Oct 02 02:45:59.000 2026] [authz_core:error] [pid 3035:tid 374836410271506] [client 192.0.2.77:42631] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 02:51:03.000 2026] [php:error] [pid 5995:tid 680000745145308] [client 77.88.8.8:54768] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 03:02:00.000 2026] [php:warn] [pid 1093:tid 958918830357041] [client 208.67.222.222:37875] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 03:12:43.000 2026] [mpm_prefork:notice] [pid 2111:tid 886089569761627] [client 203.0.113.200:43013] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 03:13:55.000 2026] [mpm_prefork:notice] [pid 2541:tid 775637787070227] [client 10.0.0.15:48312] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 03:28:41.000 2026] [core:crit] [pid 8206:tid 426826553178856] [client 203.0.113.42:58346] AH00020: Unable to open logs
+[Fri Oct 02 03:29:41.000 2026] [authz_core:error] [pid 1688:tid 797383520531078] [client 10.0.0.15:49739] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 03:38:31.000 2026] [proxy_fcgi:error] [pid 4729:tid 470470900740409] [client 114.114.114.114:53839] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 03:47:22.000 2026] [php:warn] [pid 6504:tid 836569150593542] [client 192.0.2.77:58056] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 03:55:46.000 2026] [core:error] [pid 3256:tid 762553512846119] [client 198.51.100.99:31305] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 04:06:05.000 2026] [core:error] [pid 4758:tid 176396876846992] [client 198.51.100.99:40159] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 04:12:48.000 2026] [core:error] [pid 8046:tid 747351800547678] [client 192.0.2.77:44769] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 04:17:16.000 2026] [core:error] [pid 1770:tid 846834817746644] [client 77.88.8.8:55339] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 04:29:29.000 2026] [proxy_fcgi:error] [pid 1173:tid 629330423130622] [client 77.88.8.8:59770] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 04:36:50.000 2026] [authz_core:error] [pid 8557:tid 684214556313597] [client 203.0.113.200:54438] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 04:37:40.000 2026] [proxy_fcgi:error] [pid 7638:tid 894616664722227] [client 203.0.113.5:46282] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 04:43:31.000 2026] [core:error] [pid 6119:tid 412903997445923] [client 77.88.8.8:31038] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 04:52:06.000 2026] [php:error] [pid 7595:tid 666169824705399] [client 203.0.113.5:55984] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 05:01:14.000 2026] [core:crit] [pid 6421:tid 862717765872984] [client 203.0.113.42:43904] AH00020: Unable to open logs
+[Fri Oct 02 05:11:34.000 2026] [authz_core:error] [pid 4171:tid 670042319996312] [client 192.0.2.77:35932] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 05:16:01.000 2026] [core:error] [pid 3025:tid 959282545729772] [client 1.1.1.1:33890] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 05:17:03.000 2026] [proxy_fcgi:error] [pid 5407:tid 473588534767157] [client 192.0.2.77:48216] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 05:29:44.000 2026] [core:error] [pid 4680:tid 533508853486165] [client 208.67.222.222:56516] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 05:38:22.000 2026] [php:error] [pid 5499:tid 175071011448151] [client 198.51.100.23:34704] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 05:53:13.000 2026] [authz_core:error] [pid 2361:tid 652306378052839] [client 10.0.0.15:48422] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 06:04:21.000 2026] [mpm_prefork:notice] [pid 8469:tid 285330624209444] [client 114.114.114.114:48921] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 06:16:20.000 2026] [authz_core:error] [pid 6116:tid 555240244678868] [client 8.8.8.8:50911] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 06:25:52.000 2026] [proxy_fcgi:error] [pid 1818:tid 883276274036419] [client 208.67.222.222:52196] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 06:35:55.000 2026] [mpm_prefork:notice] [pid 8173:tid 317636162983753] [client 192.0.2.77:53372] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 06:40:17.000 2026] [core:error] [pid 6784:tid 413115119456748] [client 77.88.8.8:44933] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 06:47:53.000 2026] [php:warn] [pid 2015:tid 461260563868666] [client 208.67.222.222:48529] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 06:55:16.000 2026] [core:crit] [pid 1178:tid 589996168317962] [client 10.0.0.15:50390] AH00020: Unable to open logs
+[Fri Oct 02 07:10:00.000 2026] [proxy_fcgi:error] [pid 3091:tid 899373074419214] [client 203.0.113.200:33128] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 07:15:07.000 2026] [proxy_fcgi:error] [pid 1018:tid 166550538772633] [client 203.0.113.42:54059] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 07:20:15.000 2026] [core:error] [pid 7425:tid 516124110822537] [client 192.0.2.10:31479] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 07:23:17.000 2026] [php:warn] [pid 7342:tid 157325456940964] [client 203.0.113.42:43854] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 07:29:06.000 2026] [core:error] [pid 4641:tid 647490679348304] [client 9.9.9.9:49146] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 07:36:36.000 2026] [php:error] [pid 2445:tid 732548751595615] [client 198.51.100.23:51683] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 07:42:44.000 2026] [proxy_fcgi:error] [pid 2260:tid 936136528583202] [client 114.114.114.114:38474] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 07:53:16.000 2026] [core:crit] [pid 5716:tid 934124837630762] [client 198.51.100.99:34889] AH00020: Unable to open logs
+[Fri Oct 02 08:00:09.000 2026] [authz_core:error] [pid 7528:tid 822915377696459] [client 198.51.100.99:45743] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 08:12:25.000 2026] [php:warn] [pid 7655:tid 559215373757181] [client 203.0.113.5:57001] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 08:18:24.000 2026] [proxy_fcgi:error] [pid 4648:tid 672778411519884] [client 203.0.113.200:45120] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 08:33:10.000 2026] [php:warn] [pid 8821:tid 645291911891748] [client 1.1.1.1:59827] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 08:34:41.000 2026] [mpm_prefork:notice] [pid 2536:tid 760870800785140] [client 203.0.113.42:52801] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 08:37:37.000 2026] [mpm_prefork:notice] [pid 6304:tid 764382967462808] [client 8.8.8.8:56086] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 08:45:27.000 2026] [core:crit] [pid 4764:tid 728526031091250] [client 208.67.222.222:36391] AH00020: Unable to open logs
+[Fri Oct 02 08:58:08.000 2026] [core:error] [pid 1016:tid 815149712415835] [client 1.1.1.1:45580] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 09:03:34.000 2026] [php:warn] [pid 6739:tid 389562486116835] [client 8.8.8.8:35170] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 09:10:02.000 2026] [core:error] [pid 8815:tid 166287637338576] [client 8.8.8.8:39617] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 09:12:35.000 2026] [php:warn] [pid 8375:tid 560502526299790] [client 203.0.113.5:43003] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 09:27:32.000 2026] [core:crit] [pid 4808:tid 266251106448703] [client 192.0.2.77:55441] AH00020: Unable to open logs
+[Fri Oct 02 09:28:02.000 2026] [core:crit] [pid 1905:tid 275359179409953] [client 192.0.2.77:48863] AH00020: Unable to open logs
+[Fri Oct 02 09:40:35.000 2026] [core:crit] [pid 1840:tid 584109124596683] [client 77.88.8.8:54290] AH00020: Unable to open logs
+[Fri Oct 02 09:46:38.000 2026] [core:error] [pid 4362:tid 997072095271307] [client 10.0.0.15:39687] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 09:50:10.000 2026] [core:crit] [pid 2288:tid 911437732185753] [client 198.51.100.99:30770] AH00020: Unable to open logs
+[Fri Oct 02 10:02:24.000 2026] [proxy_fcgi:error] [pid 2725:tid 716720846824145] [client 203.0.113.5:33299] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 10:11:12.000 2026] [core:error] [pid 4783:tid 252550356267028] [client 203.0.113.200:35503] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 10:26:10.000 2026] [core:crit] [pid 1283:tid 931184163731846] [client 208.67.222.222:40223] AH00020: Unable to open logs
+[Fri Oct 02 10:30:52.000 2026] [authz_core:error] [pid 4246:tid 361361607564759] [client 198.51.100.99:32187] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 10:36:48.000 2026] [proxy_fcgi:error] [pid 4448:tid 241989396126766] [client 208.67.222.222:43714] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 10:38:13.000 2026] [proxy_fcgi:error] [pid 4145:tid 626240038579422] [client 198.51.100.23:35163] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 10:49:52.000 2026] [core:error] [pid 6587:tid 590709480382005] [client 198.51.100.99:30702] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 10:57:02.000 2026] [authz_core:error] [pid 3623:tid 995697004296473] [client 203.0.113.42:41498] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 10:58:05.000 2026] [php:error] [pid 4218:tid 172812195251863] [client 77.88.8.8:38433] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 10:59:05.000 2026] [core:crit] [pid 2854:tid 274208748597385] [client 10.0.0.15:55257] AH00020: Unable to open logs
+[Fri Oct 02 11:11:03.000 2026] [core:error] [pid 7680:tid 901882479947768] [client 192.0.2.10:42578] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 11:19:02.000 2026] [core:error] [pid 4325:tid 463637572840002] [client 114.114.114.114:51495] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 11:19:36.000 2026] [mpm_prefork:notice] [pid 2919:tid 814861812309203] [client 9.9.9.9:39100] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 11:22:46.000 2026] [authz_core:error] [pid 6665:tid 563731323079340] [client 198.51.100.99:39094] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 11:27:02.000 2026] [mpm_prefork:notice] [pid 2832:tid 287650133116431] [client 198.51.100.23:54425] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 11:34:56.000 2026] [authz_core:error] [pid 4820:tid 849319537204374] [client 8.8.8.8:41983] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 11:44:53.000 2026] [authz_core:error] [pid 2964:tid 136054185832811] [client 208.67.222.222:44846] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 11:49:12.000 2026] [php:error] [pid 1948:tid 525773953214625] [client 10.0.0.15:56425] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 11:57:16.000 2026] [core:error] [pid 3429:tid 474076004478129] [client 203.0.113.200:42199] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 12:00:02.000 2026] [core:error] [pid 1902:tid 234141772804168] [client 8.8.8.8:44433] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 12:00:43.000 2026] [mpm_prefork:notice] [pid 6452:tid 109455360735205] [client 208.67.222.222:35126] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 12:11:50.000 2026] [mpm_prefork:notice] [pid 1295:tid 548646108132023] [client 198.51.100.23:46145] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 12:25:56.000 2026] [proxy_fcgi:error] [pid 3369:tid 242657736493015] [client 10.0.0.15:36257] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 12:32:17.000 2026] [core:error] [pid 6372:tid 457998124125369] [client 198.51.100.23:43013] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 12:42:58.000 2026] [php:error] [pid 8161:tid 377542501081065] [client 208.67.222.222:44119] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 12:43:53.000 2026] [core:error] [pid 4136:tid 310640864911528] [client 208.67.222.222:51807] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 12:50:17.000 2026] [authz_core:error] [pid 3999:tid 643322328226521] [client 10.0.0.15:54948] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 13:00:48.000 2026] [core:crit] [pid 6691:tid 508962285321659] [client 1.1.1.1:58377] AH00020: Unable to open logs
+[Fri Oct 02 13:11:17.000 2026] [php:warn] [pid 4888:tid 686576042360118] [client 114.114.114.114:49266] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 13:17:29.000 2026] [php:warn] [pid 1548:tid 611544231417069] [client 10.0.0.15:36484] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 13:22:32.000 2026] [proxy_fcgi:error] [pid 7612:tid 476311583155932] [client 198.51.100.23:51180] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 13:23:22.000 2026] [authz_core:error] [pid 6115:tid 654523200033037] [client 192.0.2.10:52535] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 13:26:35.000 2026] [authz_core:error] [pid 2616:tid 402691848510340] [client 192.0.2.10:55011] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 13:28:36.000 2026] [core:error] [pid 3271:tid 524135249954363] [client 1.1.1.1:40480] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 13:31:38.000 2026] [core:error] [pid 7308:tid 379517912096861] [client 9.9.9.9:56620] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 13:34:32.000 2026] [php:error] [pid 7937:tid 990435519544638] [client 114.114.114.114:59587] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 13:48:14.000 2026] [core:crit] [pid 1320:tid 861681274762363] [client 198.51.100.23:33105] AH00020: Unable to open logs
+[Fri Oct 02 13:48:46.000 2026] [authz_core:error] [pid 3209:tid 877984053915012] [client 1.1.1.1:35499] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 13:59:12.000 2026] [core:crit] [pid 1592:tid 728669891241425] [client 198.51.100.23:38928] AH00020: Unable to open logs
+[Fri Oct 02 14:00:26.000 2026] [proxy_fcgi:error] [pid 3017:tid 964750637105054] [client 10.0.0.15:39897] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 14:10:23.000 2026] [authz_core:error] [pid 7631:tid 680204562981877] [client 1.1.1.1:45975] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 14:23:45.000 2026] [php:warn] [pid 1067:tid 115993289241325] [client 198.51.100.23:57907] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 14:24:33.000 2026] [mpm_prefork:notice] [pid 5218:tid 784577383236781] [client 203.0.113.200:30390] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 14:30:40.000 2026] [core:error] [pid 5476:tid 401481452942187] [client 8.8.8.8:36310] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 14:34:51.000 2026] [proxy_fcgi:error] [pid 6835:tid 128333209279653] [client 208.67.222.222:31092] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 14:44:47.000 2026] [authz_core:error] [pid 6692:tid 481792734966736] [client 192.0.2.10:53271] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 14:49:03.000 2026] [mpm_prefork:notice] [pid 8841:tid 683456882825995] [client 203.0.113.42:56987] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 15:00:46.000 2026] [core:error] [pid 7638:tid 765757735235310] [client 198.51.100.99:31246] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 15:12:05.000 2026] [php:error] [pid 8876:tid 975830184812239] [client 77.88.8.8:32244] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 15:14:14.000 2026] [core:error] [pid 6747:tid 739956203800422] [client 114.114.114.114:43697] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 15:15:06.000 2026] [php:error] [pid 8870:tid 184540574481053] [client 9.9.9.9:59903] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 15:20:33.000 2026] [core:error] [pid 8887:tid 973447836736380] [client 114.114.114.114:34724] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 15:29:40.000 2026] [authz_core:error] [pid 2220:tid 871718459533321] [client 203.0.113.42:53829] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 15:36:05.000 2026] [php:warn] [pid 4248:tid 278673978102133] [client 8.8.8.8:44976] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 15:50:32.000 2026] [proxy_fcgi:error] [pid 6094:tid 982055543791849] [client 203.0.113.200:38633] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 16:01:00.000 2026] [mpm_prefork:notice] [pid 5905:tid 537739511276246] [client 8.8.8.8:58245] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 16:11:22.000 2026] [php:error] [pid 1003:tid 352304609777989] [client 1.1.1.1:53723] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 16:26:15.000 2026] [proxy_fcgi:error] [pid 7103:tid 515956556300526] [client 192.0.2.10:52506] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 16:32:47.000 2026] [core:crit] [pid 6860:tid 954570158209263] [client 192.0.2.10:42803] AH00020: Unable to open logs
+[Fri Oct 02 16:39:19.000 2026] [core:crit] [pid 7968:tid 811253079456803] [client 1.1.1.1:36916] AH00020: Unable to open logs
+[Fri Oct 02 16:40:12.000 2026] [proxy_fcgi:error] [pid 5707:tid 488843247610836] [client 203.0.113.200:31878] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 16:45:52.000 2026] [php:warn] [pid 8594:tid 741550008045672] [client 203.0.113.5:54700] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 16:53:07.000 2026] [proxy_fcgi:error] [pid 6318:tid 548034239780087] [client 114.114.114.114:41524] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 16:54:17.000 2026] [core:error] [pid 2181:tid 915278747931285] [client 203.0.113.42:48466] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 17:00:17.000 2026] [php:warn] [pid 7506:tid 246573866532097] [client 10.0.0.15:34164] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 17:15:14.000 2026] [php:warn] [pid 1188:tid 722156000645672] [client 192.0.2.77:42633] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 17:20:04.000 2026] [authz_core:error] [pid 8510:tid 565244542768518] [client 1.1.1.1:59248] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 17:24:16.000 2026] [mpm_prefork:notice] [pid 7674:tid 508746794606830] [client 192.0.2.77:38234] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 17:30:14.000 2026] [core:error] [pid 1971:tid 939775645151087] [client 8.8.8.8:52538] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 17:36:14.000 2026] [php:warn] [pid 5723:tid 451608551672749] [client 8.8.8.8:46976] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 17:40:28.000 2026] [mpm_prefork:notice] [pid 3222:tid 414412760967126] [client 203.0.113.200:34612] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 17:52:29.000 2026] [core:crit] [pid 5218:tid 497295342868102] [client 198.51.100.99:47882] AH00020: Unable to open logs
+[Fri Oct 02 18:01:41.000 2026] [authz_core:error] [pid 5829:tid 117086118571826] [client 192.0.2.10:50051] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 18:08:43.000 2026] [mpm_prefork:notice] [pid 4120:tid 320841262205848] [client 9.9.9.9:42139] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 18:20:33.000 2026] [core:error] [pid 7637:tid 590431399802100] [client 203.0.113.42:35348] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 18:23:25.000 2026] [php:warn] [pid 4394:tid 365663221566542] [client 1.1.1.1:56417] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 18:26:53.000 2026] [core:crit] [pid 3789:tid 238221729802375] [client 198.51.100.23:36745] AH00020: Unable to open logs
+[Fri Oct 02 18:37:50.000 2026] [mpm_prefork:notice] [pid 8907:tid 814696899871211] [client 192.0.2.77:57362] AH00163: Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 18:47:54.000 2026] [core:error] [pid 2318:tid 251100576155992] [client 198.51.100.23:30581] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 18:49:54.000 2026] [core:crit] [pid 5072:tid 863293344367105] [client 8.8.8.8:43778] AH00020: Unable to open logs
+[Fri Oct 02 18:52:37.000 2026] [proxy_fcgi:error] [pid 3972:tid 250328226477575] [client 203.0.113.42:42667] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 19:04:23.000 2026] [proxy_fcgi:error] [pid 3191:tid 351313374876482] [client 10.0.0.15:41952] AH01071: Got error 'Primary script unknown'
+[Fri Oct 02 19:16:15.000 2026] [php:warn] [pid 3273:tid 417362188150142] [client 203.0.113.42:38084] PHP Warning:  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 19:27:21.000 2026] [authz_core:error] [pid 1251:tid 344279456052794] [client 9.9.9.9:37809] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 19:40:24.000 2026] [authz_core:error] [pid 7774:tid 585471013670013] [client 203.0.113.200:51724] AH01630: client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 19:53:40.000 2026] [core:error] [pid 8916:tid 817365079172583] [client 8.8.8.8:59112] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 20:01:24.000 2026] [core:error] [pid 6240:tid 389363735083595] [client 192.0.2.77:45796] AH00124: Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 20:12:55.000 2026] [php:error] [pid 7153:tid 902124019455590] [client 1.1.1.1:32604] PHP Fatal error:  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 20:24:42.000 2026] [core:error] [pid 3418:tid 720712975185741] [client 77.88.8.8:46688] AH00126: Invalid URI in request GET /../../etc/passwd HTTP/1.1

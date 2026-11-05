@@ -1,0 +1,200 @@
+[Thu Oct 01 06:04:46 2026] [warn] [client 203.0.113.42]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 06:13:15 2026] [error] [client 192.0.2.10]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 06:14:03 2026] [error] [client 203.0.113.5] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 06:23:52 2026] [crit] [client 192.0.2.77] Unable to open logs
+[Thu Oct 01 06:36:30 2026] [crit] [client 10.0.0.15] Unable to open logs
+[Thu Oct 01 06:47:35 2026] [notice] [client 203.0.113.5] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 06:51:52 2026] [warn] [client 203.0.113.200]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 07:05:06 2026] [error] [client 9.9.9.9] Got error 'Primary script unknown'
+[Thu Oct 01 07:07:52 2026] [notice] [client 77.88.8.8] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 07:18:27 2026] [warn] [client 198.51.100.99]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 07:21:09 2026] [error] [client 114.114.114.114]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 07:23:50 2026] [notice] [client 10.0.0.15] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 07:32:44 2026] [crit] [client 192.0.2.77] Unable to open logs
+[Thu Oct 01 07:46:22 2026] [error] [client 192.0.2.77]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 07:54:39 2026] [error] [client 208.67.222.222] Got error 'Primary script unknown'
+[Thu Oct 01 08:02:45 2026] [notice] [client 8.8.8.8] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 08:06:03 2026] [error] [client 203.0.113.5] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 08:20:16 2026] [notice] [client 9.9.9.9] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 08:22:21 2026] [error] [client 114.114.114.114] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 08:31:49 2026] [error] [client 192.0.2.10] Got error 'Primary script unknown'
+[Thu Oct 01 08:32:54 2026] [warn] [client 203.0.113.42]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 08:39:51 2026] [warn] [client 198.51.100.23]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 08:44:16 2026] [error] [client 203.0.113.42] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 08:57:50 2026] [crit] [client 198.51.100.23] Unable to open logs
+[Thu Oct 01 09:12:32 2026] [error] [client 9.9.9.9] Got error 'Primary script unknown'
+[Thu Oct 01 09:26:52 2026] [error] [client 10.0.0.15] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 09:40:08 2026] [error] [client 192.0.2.77] Got error 'Primary script unknown'
+[Thu Oct 01 09:46:17 2026] [warn] [client 208.67.222.222]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 09:58:06 2026] [error] [client 192.0.2.77] Got error 'Primary script unknown'
+[Thu Oct 01 10:11:26 2026] [crit] [client 8.8.8.8] Unable to open logs
+[Thu Oct 01 10:18:28 2026] [warn] [client 203.0.113.5]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 10:29:01 2026] [error] [client 198.51.100.23]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 10:35:19 2026] [warn] [client 9.9.9.9]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 10:46:49 2026] [error] [client 9.9.9.9] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 10:52:43 2026] [error] [client 192.0.2.10] Got error 'Primary script unknown'
+[Thu Oct 01 10:54:36 2026] [error] [client 203.0.113.42] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 11:06:27 2026] [crit] [client 198.51.100.99] Unable to open logs
+[Thu Oct 01 11:11:53 2026] [error] [client 203.0.113.42] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 11:19:58 2026] [crit] [client 198.51.100.23] Unable to open logs
+[Thu Oct 01 11:31:48 2026] [error] [client 198.51.100.23] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 11:45:17 2026] [error] [client 77.88.8.8] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 11:58:01 2026] [error] [client 203.0.113.42] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 11:59:51 2026] [warn] [client 203.0.113.200]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 12:10:08 2026] [notice] [client 198.51.100.99] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 12:22:53 2026] [error] [client 10.0.0.15] Got error 'Primary script unknown'
+[Thu Oct 01 12:34:15 2026] [notice] [client 10.0.0.15] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 12:44:44 2026] [error] [client 203.0.113.42]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 12:46:20 2026] [error] [client 203.0.113.42] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 12:56:23 2026] [notice] [client 203.0.113.42] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 13:04:21 2026] [error] [client 77.88.8.8]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 13:15:38 2026] [notice] [client 203.0.113.5] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 13:17:00 2026] [error] [client 198.51.100.99] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 13:22:17 2026] [crit] [client 77.88.8.8] Unable to open logs
+[Thu Oct 01 13:31:13 2026] [crit] [client 198.51.100.99] Unable to open logs
+[Thu Oct 01 13:38:55 2026] [error] [client 192.0.2.10]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 13:50:55 2026] [warn] [client 198.51.100.23]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 14:04:45 2026] [error] [client 203.0.113.200] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 14:11:16 2026] [error] [client 10.0.0.15] Got error 'Primary script unknown'
+[Thu Oct 01 14:21:22 2026] [crit] [client 203.0.113.5] Unable to open logs
+[Thu Oct 01 14:29:47 2026] [error] [client 203.0.113.42] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 14:38:27 2026] [error] [client 10.0.0.15]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 14:52:30 2026] [error] [client 8.8.8.8]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 14:53:45 2026] [error] [client 8.8.8.8] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 15:07:42 2026] [error] [client 1.1.1.1] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 15:20:52 2026] [error] [client 9.9.9.9] Got error 'Primary script unknown'
+[Thu Oct 01 15:29:58 2026] [error] [client 203.0.113.5] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 15:37:34 2026] [error] [client 192.0.2.10] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 15:41:10 2026] [notice] [client 1.1.1.1] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 15:47:09 2026] [crit] [client 208.67.222.222] Unable to open logs
+[Thu Oct 01 15:57:39 2026] [notice] [client 1.1.1.1] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 16:02:28 2026] [error] [client 198.51.100.99] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 16:14:54 2026] [error] [client 192.0.2.77] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 16:17:04 2026] [error] [client 203.0.113.5] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 16:26:17 2026] [error] [client 8.8.8.8] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 16:38:57 2026] [error] [client 203.0.113.5] Got error 'Primary script unknown'
+[Thu Oct 01 16:45:28 2026] [crit] [client 9.9.9.9] Unable to open logs
+[Thu Oct 01 16:50:37 2026] [error] [client 203.0.113.5]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 16:54:05 2026] [crit] [client 203.0.113.200] Unable to open logs
+[Thu Oct 01 17:06:04 2026] [error] [client 203.0.113.42] Got error 'Primary script unknown'
+[Thu Oct 01 17:18:22 2026] [error] [client 192.0.2.10] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 17:24:49 2026] [error] [client 198.51.100.99]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 17:30:23 2026] [warn] [client 203.0.113.200]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 17:31:38 2026] [notice] [client 1.1.1.1] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 17:39:55 2026] [error] [client 198.51.100.99] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 17:48:20 2026] [error] [client 203.0.113.42]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 17:54:29 2026] [error] [client 9.9.9.9] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 18:06:07 2026] [warn] [client 203.0.113.200]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 18:10:59 2026] [warn] [client 10.0.0.15]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 18:15:29 2026] [notice] [client 77.88.8.8] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 18:23:21 2026] [crit] [client 208.67.222.222] Unable to open logs
+[Thu Oct 01 18:35:22 2026] [crit] [client 203.0.113.5] Unable to open logs
+[Thu Oct 01 18:44:07 2026] [crit] [client 192.0.2.77] Unable to open logs
+[Thu Oct 01 18:48:14 2026] [error] [client 203.0.113.42] Got error 'Primary script unknown'
+[Thu Oct 01 19:02:09 2026] [error] [client 192.0.2.10]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 19:16:17 2026] [notice] [client 198.51.100.23] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 19:25:00 2026] [notice] [client 8.8.8.8] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 19:29:01 2026] [error] [client 8.8.8.8] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 19:34:37 2026] [crit] [client 198.51.100.99] Unable to open logs
+[Thu Oct 01 19:36:41 2026] [error] [client 8.8.8.8] Got error 'Primary script unknown'
+[Thu Oct 01 19:45:12 2026] [crit] [client 1.1.1.1] Unable to open logs
+[Thu Oct 01 19:56:26 2026] [error] [client 203.0.113.200]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 20:05:38 2026] [error] [client 10.0.0.15] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 20:13:10 2026] [error] [client 203.0.113.5] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 20:23:30 2026] [error] [client 192.0.2.77] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 20:38:22 2026] [error] [client 192.0.2.10] Got error 'Primary script unknown'
+[Thu Oct 01 20:45:34 2026] [error] [client 198.51.100.99] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 20:59:05 2026] [crit] [client 203.0.113.200] Unable to open logs
+[Thu Oct 01 21:10:59 2026] [error] [client 192.0.2.77] Got error 'Primary script unknown'
+[Thu Oct 01 21:14:04 2026] [error] [client 192.0.2.77] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 21:16:36 2026] [error] [client 114.114.114.114]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Thu Oct 01 21:30:12 2026] [warn] [client 208.67.222.222]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 21:37:21 2026] [error] [client 198.51.100.23] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 21:49:03 2026] [warn] [client 10.0.0.15]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 22:02:05 2026] [error] [client 77.88.8.8] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Thu Oct 01 22:05:12 2026] [notice] [client 10.0.0.15] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 22:09:03 2026] [error] [client 203.0.113.200] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 22:19:19 2026] [notice] [client 203.0.113.42] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 22:22:16 2026] [notice] [client 208.67.222.222] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 22:31:50 2026] [crit] [client 203.0.113.42] Unable to open logs
+[Thu Oct 01 22:44:53 2026] [error] [client 192.0.2.77] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 22:48:54 2026] [notice] [client 203.0.113.42] Apache/2.4.58 configured -- resuming normal operations
+[Thu Oct 01 22:49:34 2026] [crit] [client 198.51.100.23] Unable to open logs
+[Thu Oct 01 23:03:01 2026] [error] [client 203.0.113.42] client denied by server configuration: /var/www/html/admin
+[Thu Oct 01 23:04:27 2026] [crit] [client 9.9.9.9] Unable to open logs
+[Thu Oct 01 23:13:52 2026] [warn] [client 203.0.113.5]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Thu Oct 01 23:24:31 2026] [error] [client 10.0.0.15] Got error 'Primary script unknown'
+[Thu Oct 01 23:32:53 2026] [error] [client 114.114.114.114] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 23:45:46 2026] [error] [client 203.0.113.42] Request exceeded the limit of 10 internal redirects
+[Thu Oct 01 23:57:50 2026] [error] [client 9.9.9.9] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 00:09:56 2026] [error] [client 1.1.1.1] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 00:14:52 2026] [warn] [client 203.0.113.5]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 00:22:16 2026] [warn] [client 1.1.1.1]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 00:35:55 2026] [error] [client 9.9.9.9] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 00:43:56 2026] [notice] [client 192.0.2.10] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 00:56:20 2026] [error] [client 114.114.114.114] Got error 'Primary script unknown'
+[Fri Oct 02 01:00:38 2026] [error] [client 198.51.100.99] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 01:06:34 2026] [error] [client 203.0.113.5] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 01:17:23 2026] [notice] [client 192.0.2.10] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 01:24:43 2026] [warn] [client 8.8.8.8]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 01:26:16 2026] [error] [client 77.88.8.8] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 01:33:25 2026] [error] [client 203.0.113.42]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 01:35:55 2026] [error] [client 208.67.222.222] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 01:48:00 2026] [error] [client 192.0.2.10] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 01:52:55 2026] [error] [client 192.0.2.77] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 02:02:07 2026] [crit] [client 203.0.113.200] Unable to open logs
+[Fri Oct 02 02:15:15 2026] [error] [client 203.0.113.200] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 02:20:52 2026] [error] [client 1.1.1.1] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 02:24:51 2026] [notice] [client 10.0.0.15] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 02:38:12 2026] [warn] [client 203.0.113.200]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 02:50:26 2026] [crit] [client 203.0.113.42] Unable to open logs
+[Fri Oct 02 03:01:42 2026] [warn] [client 198.51.100.99]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 03:09:17 2026] [notice] [client 9.9.9.9] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 03:18:01 2026] [error] [client 10.0.0.15]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 03:32:12 2026] [notice] [client 198.51.100.99] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 03:45:29 2026] [error] [client 192.0.2.77] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 03:53:50 2026] [crit] [client 203.0.113.42] Unable to open logs
+[Fri Oct 02 03:55:22 2026] [notice] [client 208.67.222.222] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 04:00:57 2026] [error] [client 192.0.2.77] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 04:02:58 2026] [error] [client 203.0.113.42]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 04:13:29 2026] [error] [client 198.51.100.99] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 04:27:02 2026] [error] [client 208.67.222.222] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 04:32:31 2026] [error] [client 203.0.113.200]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 04:41:10 2026] [error] [client 8.8.8.8] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 04:52:52 2026] [error] [client 198.51.100.99]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 04:57:35 2026] [warn] [client 10.0.0.15]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 05:09:57 2026] [error] [client 77.88.8.8] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 05:12:38 2026] [error] [client 198.51.100.23] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 05:22:53 2026] [warn] [client 192.0.2.77]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 05:37:17 2026] [error] [client 192.0.2.10] Got error 'Primary script unknown'
+[Fri Oct 02 05:38:07 2026] [error] [client 1.1.1.1]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 05:42:52 2026] [error] [client 10.0.0.15] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 05:52:40 2026] [error] [client 1.1.1.1] Got error 'Primary script unknown'
+[Fri Oct 02 05:59:18 2026] [crit] [client 192.0.2.77] Unable to open logs
+[Fri Oct 02 06:01:13 2026] [error] [client 203.0.113.42]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 06:12:05 2026] [error] [client 198.51.100.23] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 06:17:07 2026] [error] [client 203.0.113.42]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 06:28:17 2026] [notice] [client 1.1.1.1] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 06:41:06 2026] [notice] [client 10.0.0.15] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 06:48:39 2026] [error] [client 192.0.2.77] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 06:56:35 2026] [notice] [client 208.67.222.222] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 07:06:36 2026] [error] [client 9.9.9.9]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 07:10:51 2026] [notice] [client 208.67.222.222] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 07:13:33 2026] [notice] [client 198.51.100.23] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 07:22:25 2026] [error] [client 203.0.113.200] Invalid URI in request GET /../../etc/passwd HTTP/1.1
+[Fri Oct 02 07:30:22 2026] [warn] [client 8.8.8.8]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 07:44:14 2026] [error] [client 10.0.0.15]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 07:47:15 2026] [error] [client 198.51.100.99]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 07:51:33 2026] [warn] [client 208.67.222.222]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 07:54:30 2026] [crit] [client 198.51.100.23] Unable to open logs
+[Fri Oct 02 08:05:27 2026] [crit] [client 1.1.1.1] Unable to open logs
+[Fri Oct 02 08:12:20 2026] [warn] [client 208.67.222.222]  Undefined variable $x in /var/www/html/blog.php on line 7
+[Fri Oct 02 08:26:32 2026] [error] [client 114.114.114.114] Request exceeded the limit of 10 internal redirects
+[Fri Oct 02 08:35:18 2026] [error] [client 192.0.2.10]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 08:44:46 2026] [error] [client 203.0.113.200] Got error 'Primary script unknown'
+[Fri Oct 02 08:57:51 2026] [crit] [client 114.114.114.114] Unable to open logs
+[Fri Oct 02 09:05:23 2026] [error] [client 203.0.113.5] Got error 'Primary script unknown'
+[Fri Oct 02 09:12:01 2026] [notice] [client 8.8.8.8] Apache/2.4.58 configured -- resuming normal operations
+[Fri Oct 02 09:20:16 2026] [error] [client 198.51.100.23]  Uncaught Error: Call to undefined function foo() in /var/www/html/index.php:12
+[Fri Oct 02 09:24:57 2026] [error] [client 10.0.0.15] client denied by server configuration: /var/www/html/admin
+[Fri Oct 02 09:25:37 2026] [error] [client 198.51.100.23] client denied by server configuration: /var/www/html/admin

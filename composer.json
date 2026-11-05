@@ -1,0 +1,21 @@
+{
+    "name": "local-weblog-analyzer/lwa",
+    "description": "Fast local analysis of large web server logs (Local Weblog Analyzer)",
+    "type": "project",
+    "keywords": ["log", "access-log", "apache", "nginx", "sqlite", "analytics"],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "ext-pdo_sqlite": "*",
+        "matomo/device-detector": "^6.4",
+        "maxmind-db/reader": "^1.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "LocalWeblogAnalyzer\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
