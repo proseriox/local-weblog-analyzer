@@ -22,6 +22,11 @@ Nothing is uploaded anywhere: all processing happens on your machine.
 
 🇩🇪 [Deutsche Version](README.de.md)
 
+<img width="2537" height="2937" alt="website" src="https://github.com/user-attachments/assets/cad8f4c5-5b8b-482a-9517-6a0eac06fd53" /> <img width="2537" height="2589" alt="image" src="https://github.com/user-attachments/assets/33b86b9f-e9c9-4563-b327-2f91e5ca9c73" />
+
+
+
+
 ## What you can analyse
 
 | Log type | Supported formats | Dashboard |
